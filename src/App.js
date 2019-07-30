@@ -17,7 +17,7 @@ const Header = ({ clearSearch, hasResults }) => (
         <img src={clearButton} onClick={clearSearch} />
       
     : 
-      <h1 className="title"> Jiffy </h1>
+      <h1 className="title"> Get Giffy! </h1>
     }
   </div>
 );
